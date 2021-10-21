@@ -1,0 +1,23 @@
+h1{
+	color:#456990; 			
+	font-size: 40px;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.subtitulo{
+ 	color:#028090;
+ 	font-size: 20px;
+ 	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+ 		
+body{
+ 	text-align: justify;
+ 	color:#114B5F;
+ 	padding: 10px;
+}
+ 		
+table, tr, td {
+ 	border-spacing: 5px;
+	border: none;
+	padding: 5px;
+}
